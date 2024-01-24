@@ -42,7 +42,7 @@ $(document).ready(function() {
   });
 
   var typed = new Typed(".typing-2", {
-    strings: ["User", "Developer", "But not programmer", "Gamer", "Super"],
+    strings: ["User", "Software and hardware engineer", "Developer", "But not programmer", "Gamer", "Super"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true
